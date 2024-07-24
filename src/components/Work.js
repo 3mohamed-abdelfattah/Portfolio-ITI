@@ -62,19 +62,17 @@ const Work = () => {
         return () => {
             window.removeEventListener('scroll', handleScroll);
             scrollUpBtn.removeEventListener('click', handleScrollUpClick);
-            // Destroy Typed.js instances on cleanup
             typed1.destroy();
             typed2.destroy();
         };
     }, []);
 
     return (
-
         <section className="teams" id="work">
             <div className="container">
                 <h2 className="title">My Contributions</h2>
                 <OwlCarousel
-                    className="carousel"
+                    className="carousel owl-dots"
                     loop
                     margin={20}
                     autoplay
