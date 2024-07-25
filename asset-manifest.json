@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-ITI/static/css/main.5bf1dc78.css",
-    "main.js": "/Portfolio-ITI/static/js/main.d9a8a36b.js",
+    "main.js": "/Portfolio-ITI/static/js/main.f62d1603.js",
     "static/media/FitWave.png": "/Portfolio-ITI/static/media/FitWave.3a63f37d179f67e672fa.png",
     "static/media/calc.png": "/Portfolio-ITI/static/media/calc.2f9d9fc34ff50df4753e.png",
     "static/media/LittleLemon.png": "/Portfolio-ITI/static/media/LittleLemon.3357ae517df84533e2d4.png",
@@ -14,10 +14,10 @@
     "static/media/bg.jpg": "/Portfolio-ITI/static/media/bg.c6ba9cacc1ac239585cb.jpg",
     "index.html": "/Portfolio-ITI/index.html",
     "main.5bf1dc78.css.map": "/Portfolio-ITI/static/css/main.5bf1dc78.css.map",
-    "main.d9a8a36b.js.map": "/Portfolio-ITI/static/js/main.d9a8a36b.js.map"
+    "main.f62d1603.js.map": "/Portfolio-ITI/static/js/main.f62d1603.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf1dc78.css",
-    "static/js/main.d9a8a36b.js"
+    "static/js/main.f62d1603.js"
   ]
 }
