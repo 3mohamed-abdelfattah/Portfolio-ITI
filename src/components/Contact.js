@@ -30,7 +30,7 @@ const Contact = () => (
                             <div className="info">
                                 <div className="head" style={{ color: '#102C57', fontWeight: 700 }}>Email</div>
                                 <a href="mailto:mohamed.m.abdalfattah@gmail.com"
-                                    style={{ color: '#bea17e' }}>mohamed.m.abdalfattah@gmail.com</a>                            </div>
+                                    style={{ color: '#bea17e' }}>mohamed.m.abdalfattah@gmail.com</a></div>
                         </div>
                     </div>
                 </div>

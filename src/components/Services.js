@@ -9,7 +9,7 @@ import React from 'react';
 const Services = () => (
     <section className="services" id="services">
         <div className="container">
-            <h2 className="title">My services</h2>
+            <h2 className="title">My Services</h2>
             <div className="serv-content df">
                 <div className="card">
                     <div className="box">
