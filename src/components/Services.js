@@ -9,9 +9,9 @@ import React from 'react';
 const Services = () => (
     <section className="services" id="services">
         <div className="container">
-            <h2 className="title">My Services</h2>
+            <h2 className="title" data-aos="zoom-in">My Services</h2>
             <div className="serv-content df">
-                <div className="card">
+                <div className="card" data-aos="flip-up">
                     <div className="box">
                         <i><AiFillAndroid /></i>
                         <div className="text">Android Developer</div>
@@ -21,7 +21,7 @@ const Services = () => (
                         </p>
                     </div>
                 </div>
-                <div className="card">
+                <div className="card" data-aos="flip-up">
                     <div className="box">
                         <i><FaCode /></i>
                         <div className="text">MERN Developer</div>
@@ -30,7 +30,7 @@ const Services = () => (
                         </p>
                     </div>
                 </div>
-                <div className="card">
+                <div className="card" data-aos="flip-up">
                     <div className="box">
                         <i><AiFillApple /></i>
                         <div className="text">React Native Developer</div>
@@ -40,7 +40,7 @@ const Services = () => (
                         </p>
                     </div>
                 </div>
-                <div className="card" style={{ marginTop: '2%' }}>
+                <div className="card" style={{ marginTop: '2%' }} data-aos="flip-down">
                     <div className="box">
                         <i><CgGym /></i>
                         <div className="text">Personal Trainer</div>
@@ -50,7 +50,7 @@ const Services = () => (
                         </p>
                     </div>
                 </div>
-                <div className="card" style={{ marginTop: '2%' }}>
+                <div className="card" style={{ marginTop: '2%' }} data-aos="flip-down">
                     <div className="box">
                         <i><FaRegFilePowerpoint /></i>
                         <div className="text">Presentation Creator</div>
@@ -59,7 +59,7 @@ const Services = () => (
                         </p>
                     </div>
                 </div>
-                <div className="card" style={{ marginTop: '2%' }}>
+                <div className="card" style={{ marginTop: '2%' }} data-aos="flip-down">
                     <div className="box">
                         <i><BiVideo /></i>
                         <div className="text">Video Editing</div>

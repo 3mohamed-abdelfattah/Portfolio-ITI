@@ -70,7 +70,7 @@ const Work = () => {
     return (
         <section className="teams" id="work">
             <div className="container">
-                <h2 className="title">My Contributions</h2>
+                <h2 className="title" data-aos="zoom-in">My Contributions</h2>
                 <OwlCarousel
                     className="carousel owl-dots"
                     loop
@@ -89,7 +89,7 @@ const Work = () => {
                         }
                     }}
                 >
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/FitWave" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work1} alt="FitWave" />
@@ -102,7 +102,7 @@ const Work = () => {
                             </div>
                         </a>
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/BrandStep" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work2} alt="" />
@@ -114,7 +114,7 @@ const Work = () => {
                             </div>
                         </a>
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/ToDoWiz" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work3} alt="" />
@@ -127,7 +127,7 @@ const Work = () => {
                             </div>
                         </a>
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/Little_Lemon_Project" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work4} alt="" />
@@ -139,7 +139,7 @@ const Work = () => {
                             </div>
                         </a>
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/Restaurant_APP" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work5} alt="" />
@@ -152,7 +152,7 @@ const Work = () => {
                             </div>
                         </a>
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/Calculator" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work6} alt="" />
@@ -164,7 +164,7 @@ const Work = () => {
                             </div>
                         </a>
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/CareHub" style={{ color: 'white' }}>
                             <div className="box">
                                 <img style={{
@@ -182,7 +182,7 @@ const Work = () => {
                             </div>
                         </a>
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/Simple-Chess-Game" style={{ color: 'white' }}>
                             <div className="box">
                                 <img style={{

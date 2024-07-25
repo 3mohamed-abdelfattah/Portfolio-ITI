@@ -9,7 +9,7 @@ const Navbar = () => {
     return (
         <nav className="navbar">
             <div className="container">
-                <ul className="menu">
+                <ul className="menu" data-aos="fade-left">
                     <li><a href="#home" className="menu-btn">Home</a></li>
                     <li><a href="#about" className="menu-btn">About</a></li>
                     <li><a href="#services" className="menu-btn">Services</a></li>

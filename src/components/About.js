@@ -4,18 +4,18 @@ import Me from '../images/me.jpg'
 const About = () => (
     <section className="about" id="about">
         <div className="container">
-            <h2 className="title" style={{ color: '#102C57', fontWeight: 700 }}>About Me</h2>
+            <h2 className="title" style={{ color: '#102C57', fontWeight: 700 }} data-aos="zoom-in">About Me</h2>
             <div className="about-content df">
-                <div className="column left">
+                <div className="column left" data-aos="zoom-in-right">
                     <img style={{ borderRadius: '50%', border: '5px solid #102C57' }} src={Me} alt="myPhoto" />
                 </div>
                 <div className="column right">
-                    <div className="text">
+                    <div className="text" data-aos="zoom-in">
                         {`I'm `}
                         <h2>Mohamed</h2><br />
                         and I'm a <span className="typing-2"></span>
                     </div>
-                    <p>
+                    <p data-aos="zoom-in">
                         a Cross-Platform Software Developer, from EGYPT. Seeking
                         internship opportunities or development projects to elevate my
                         skills in computer science and programming techniques, ready to
@@ -30,7 +30,7 @@ const About = () => (
                         user-focused, innovative solutions, and delivering clean code
                         through effective teamwork.
                     </p>
-                    <div className="socialMedia">
+                    <div className="socialMedia" data-aos="zoom-in-left">
                         <ul>
                             <li><a href="https://wa.me/+201101201745"><i className="fab fa-whatsapp"></i></a></li>
                             <li><a href="https://www.linkedin.com/in/mohamed-devmaster/"><i className="fab fa-linkedin-in"></i></a></li>
