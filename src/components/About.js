@@ -33,7 +33,7 @@ const About = () => (
                     <div className="socialMedia" data-aos="zoom-in-left">
                         <ul>
                             <li><a href="https://wa.me/+201101201745"><i className="fab fa-whatsapp"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/mohamed-devmaster/"><i className="fab fa-linkedin-in"></i></a></li>
+                            <li><a href="www.linkedin.com/in/3mohamed-abdelfattah"><i className="fab fa-linkedin-in"></i></a></li>
                             <li><a href="https://github.com/3mohamed-abdelfattah"><i className="fab fa-github"></i></a></li>
                         </ul>
                     </div>
