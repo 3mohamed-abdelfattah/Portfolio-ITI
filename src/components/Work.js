@@ -13,7 +13,6 @@ import Work6 from '../images/calc.png';
 import Work7 from '../images/CareHub.png';
 import Work8 from '../images/chess.png';
 
-
 const Work = () => {
     useEffect(() => {
         const handleScroll = () => {
