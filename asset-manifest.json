@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio-ITI/static/css/main.5bf1dc78.css",
-    "main.js": "/Portfolio-ITI/static/js/main.98ec9cf5.js",
+    "main.js": "/Portfolio-ITI/static/js/main.8fc4de5c.js",
     "static/media/FitWave.png": "/Portfolio-ITI/static/media/FitWave.3a63f37d179f67e672fa.png",
+    "static/media/LittleLemon.png": "/Portfolio-ITI/static/media/LittleLemon.ca9b908f2509e44118b7.png",
     "static/media/calc.png": "/Portfolio-ITI/static/media/calc.2f9d9fc34ff50df4753e.png",
-    "static/media/LittleLemon.png": "/Portfolio-ITI/static/media/LittleLemon.3357ae517df84533e2d4.png",
     "static/media/BrandStep.png": "/Portfolio-ITI/static/media/BrandStep.b1b5f4640e16fdf3b67a.png",
     "static/media/ToDo Wiz.png": "/Portfolio-ITI/static/media/ToDo Wiz.048c4394fbe1d0b9218b.png",
     "static/media/chess.png": "/Portfolio-ITI/static/media/chess.14c553266586ba7243df.png",
     "static/media/me.jpg": "/Portfolio-ITI/static/media/me.6401899e415a9a4652ee.jpg",
     "static/media/CareHub.png": "/Portfolio-ITI/static/media/CareHub.0310cd9d185456e2a82a.png",
     "static/media/PizzaSlice.png": "/Portfolio-ITI/static/media/PizzaSlice.3935a59fa4d57ed2ef4d.png",
+    "static/media/EgyptID.png": "/Portfolio-ITI/static/media/EgyptID.4a4a03434d51b6972a8b.png",
+    "static/media/witherWise.png": "/Portfolio-ITI/static/media/witherWise.45b3c30534298177e09a.png",
     "static/media/bg.jpg": "/Portfolio-ITI/static/media/bg.c6ba9cacc1ac239585cb.jpg",
     "index.html": "/Portfolio-ITI/index.html",
     "main.5bf1dc78.css.map": "/Portfolio-ITI/static/css/main.5bf1dc78.css.map",
-    "main.98ec9cf5.js.map": "/Portfolio-ITI/static/js/main.98ec9cf5.js.map"
+    "main.8fc4de5c.js.map": "/Portfolio-ITI/static/js/main.8fc4de5c.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf1dc78.css",
-    "static/js/main.98ec9cf5.js"
+    "static/js/main.8fc4de5c.js"
   ]
 }
