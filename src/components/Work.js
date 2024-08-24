@@ -4,14 +4,16 @@ import Typed from 'typed.js';
 import OwlCarousel from 'react-owl-carousel3';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
+import Work0 from '../images/LittleLemon.png';
 import Work1 from '../images/FitWave.png';
 import Work2 from '../images/BrandStep.png';
 import Work3 from '../images/ToDo Wiz.png';
-import Work4 from '../images/LittleLemon.png';
+import Work4 from '../images/witherWise.png';
 import Work5 from '../images/PizzaSlice.png';
 import Work6 from '../images/calc.png';
 import Work7 from '../images/CareHub.png';
 import Work8 from '../images/chess.png';
+import Work9 from '../images/EgyptID.png';
 
 const Work = () => {
     useEffect(() => {
@@ -89,6 +91,19 @@ const Work = () => {
                     }}
                 >
                     <div className="card" data-aos="zoom-in">
+                        <a href="https://github.com/3mohamed-abdelfattah/Little-Limon" style={{ color: 'white' }}>
+                            <div className="box">
+                                <img src={Work0} alt="FitWave" />
+                                <div className="text">Little Limon</div>
+                                <p>
+                                    Kotlin<br /><br />Restaurant App allows users to browse
+                                    through a restaurant's menu, view details of each dish, and
+                                    place orders 🍋
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/FitWave" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work1} alt="FitWave" />
@@ -127,18 +142,6 @@ const Work = () => {
                         </a>
                     </div>
                     <div className="card" data-aos="zoom-in">
-                        <a href="https://github.com/3mohamed-abdelfattah/Little_Lemon_Project" style={{ color: 'white' }}>
-                            <div className="box">
-                                <img src={Work4} alt="" />
-                                <div className="text">Little Lemon</div>
-                                <p>
-                                    Kotlin <br /><br />Restaurant App allows users to browse the
-                                    menu and get information about the restaurant 🍉
-                                </p>
-                            </div>
-                        </a>
-                    </div>
-                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/Restaurant_APP" style={{ color: 'white' }}>
                             <div className="box">
                                 <img src={Work5} alt="" />
@@ -164,6 +167,22 @@ const Work = () => {
                         </a>
                     </div>
                     <div className="card" data-aos="zoom-in">
+                        <a href="https://github.com/3mohamed-abdelfattah/WeatherWise" style={{ color: 'white' }}>
+                            <div className="box">
+                                <img style={{
+                                    width: '495px',
+                                    height: '255px',
+                                    borderRadius: '0.5%'
+                                }}
+                                    src={Work4} alt="" />
+                                <div className="text">Weather Wise</div>
+                                <p>
+                                    ReactJS with Vite <br /><br />Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️ <br /><br /><br /><br />
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div className="card" data-aos="zoom-in">
                         <a href="https://github.com/3mohamed-abdelfattah/CareHub" style={{ color: 'white' }}>
                             <div className="box">
                                 <img style={{
@@ -177,6 +196,22 @@ const Work = () => {
                                     MERN Stack <br /><br />CareHub aims to seamlessly integrate
                                     various medical and healthcare specialties with cutting-edge
                                     technology <br /><br />🌐🚀<br /><br />
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div className="card" data-aos="zoom-in">
+                        <a href="https://github.com/3mohamed-abdelfattah/Egypt-ID" style={{ color: 'white' }}>
+                            <div className="box">
+                                <img style={{
+                                    width: '495px',
+                                    height: '255px',
+                                    borderRadius: '0.5%'
+                                }}
+                                    src={Work9} alt="" />
+                                <div className="text">Egypt ID</div>
+                                <p>
+                                    ReactJS with Vite <br /><br />Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳<br /><br /><br /><br />
                                 </p>
                             </div>
                         </a>
