@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-ITI/static/css/main.5bf1dc78.css",
-    "main.js": "/Portfolio-ITI/static/js/main.8fc4de5c.js",
+    "main.css": "/Portfolio-ITI/static/css/main.efea6255.css",
+    "main.js": "/Portfolio-ITI/static/js/main.ffa998cc.js",
     "static/media/FitWave.png": "/Portfolio-ITI/static/media/FitWave.3a63f37d179f67e672fa.png",
     "static/media/LittleLemon.png": "/Portfolio-ITI/static/media/LittleLemon.ca9b908f2509e44118b7.png",
     "static/media/calc.png": "/Portfolio-ITI/static/media/calc.2f9d9fc34ff50df4753e.png",
@@ -11,15 +11,16 @@
     "static/media/me.jpg": "/Portfolio-ITI/static/media/me.6401899e415a9a4652ee.jpg",
     "static/media/CareHub.png": "/Portfolio-ITI/static/media/CareHub.0310cd9d185456e2a82a.png",
     "static/media/PizzaSlice.png": "/Portfolio-ITI/static/media/PizzaSlice.3935a59fa4d57ed2ef4d.png",
+    "static/media/bg_text.webp": "/Portfolio-ITI/static/media/bg_text.fb666be633a6dabcdfbb.webp",
     "static/media/EgyptID.png": "/Portfolio-ITI/static/media/EgyptID.4a4a03434d51b6972a8b.png",
     "static/media/witherWise.png": "/Portfolio-ITI/static/media/witherWise.45b3c30534298177e09a.png",
     "static/media/bg.jpg": "/Portfolio-ITI/static/media/bg.c6ba9cacc1ac239585cb.jpg",
     "index.html": "/Portfolio-ITI/index.html",
-    "main.5bf1dc78.css.map": "/Portfolio-ITI/static/css/main.5bf1dc78.css.map",
-    "main.8fc4de5c.js.map": "/Portfolio-ITI/static/js/main.8fc4de5c.js.map"
+    "main.efea6255.css.map": "/Portfolio-ITI/static/css/main.efea6255.css.map",
+    "main.ffa998cc.js.map": "/Portfolio-ITI/static/js/main.ffa998cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bf1dc78.css",
-    "static/js/main.8fc4de5c.js"
+    "static/css/main.efea6255.css",
+    "static/js/main.ffa998cc.js"
   ]
 }
