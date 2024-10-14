@@ -42,25 +42,25 @@ Welcome to my ITI final project portfolio! This project showcases my skills and 
 ## File Structure
 
 ```
-    └── 📁src
-        └── 📁components
-            └── About.js
-            └── Contact.js
-            └── Footer.js
-            └── Home.js
-            └── Navbar.js
-            └── ScrollUpButton.js
-            └── Services.js
-            └── Skills.js
-            └── Work.js
-        └── 📁images
-        └── App.css
-        └── App.js
-        └── index.js
-    └── .gitignore
-    └── package-lock.json
-    └── package.json
-    └── README.md
+└── 📁src
+     └── 📁components
+          └── About.js
+          └── Contact.js
+          └── Footer.js
+          └── Home.js
+          └── Navbar.js
+          └── ScrollUpButton.js
+          └── Services.js
+          └── Skills.js
+          └── Work.js
+     └── 📁images
+     └── App.css
+     └── App.js
+     └── index.js
+└── .gitignore
+└── package-lock.json
+└── package.json
+└── README.md
 ```
 
 ## Installation
