@@ -193,14 +193,9 @@ section .title::after {
 }
 
 .home .home-content .text-2 {
-  font-family: "Playwrite DE Grund", cursive;
-  color: transparent;
-  font-size: 70px;
-  font-weight: 700;
+  font-size: 75px;
+  font-weight: 600;
   margin-left: -3px;
-  background-image: url(./images/bg_text.webp);
-  -webkit-background-clip: text;
-  background-size: contain;
 }
 
 .home .home-content .text-3 {
